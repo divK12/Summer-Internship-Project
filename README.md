@@ -19,3 +19,6 @@ During the summer of 2024, I had the opportunity to work with Coriolis Technolog
   - The evaluation system has been tested against human evaluations and LangSmith to ensure accuracy and reliability.
 
 This project aimed to enhance the efficiency of creating and grading subjective questions/answers, providing a more comprehensive assessment of document content.
+
+
+- [Project Report]([https://vv1.coriolis.co.in/media/Subjective_QA_generator_from_PDF_and_Evaluator.pdf])
